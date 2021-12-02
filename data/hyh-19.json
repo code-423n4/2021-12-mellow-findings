@@ -1,0 +1,9 @@
+{
+  "contest": "Mellow Protocol contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "1",
+  "title": "Missing zero-address checks on contract construction",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2021-12-mellow-findings/issues/19"
+}
