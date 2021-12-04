@@ -1,0 +1,9 @@
+{
+  "contest": "Mellow Protocol contest",
+  "handle": "hagrid",
+  "address": "0x3A46FeD37cAcd52a6DACc4a49f520AdaD0e51D61",
+  "risk": "3",
+  "title": "Potential DOS with Division By Zero on `LpIssuer`",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2021-12-mellow-findings/issues/27"
+}
