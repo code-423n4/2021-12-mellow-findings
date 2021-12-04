@@ -1,0 +1,9 @@
+{
+  "contest": "Mellow Protocol contest",
+  "handle": "Ruhum",
+  "address": "0xC3e61F4ef0a95E616F75f94D5b6A358bD9DC18ac",
+  "risk": "1",
+  "title": "Possiblity of creating a UniV3Vault without access to a Uniswap pool",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2021-12-mellow-findings/issues/28"
+}
