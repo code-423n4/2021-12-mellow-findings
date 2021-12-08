@@ -1,0 +1,9 @@
+{
+  "contest": "Mellow Protocol contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Bad redirects can make it impossible to deposit & withdraw",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2021-12-mellow-findings/issues/44"
+}
