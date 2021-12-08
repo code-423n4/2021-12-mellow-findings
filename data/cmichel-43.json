@@ -1,0 +1,9 @@
+{
+  "contest": "Mellow Protocol contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "ERC20 approve return values not checked",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2021-12-mellow-findings/issues/43"
+}
